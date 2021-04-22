@@ -105,10 +105,11 @@
                 {{ product.title }}
               </h1>
             {%- endif -%}
-            
-{% comment %}Start automatically added Judge.me widget{% endcomment %}
-  {% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', concierge_install: true, product: product %}
-{% comment %}End automatically added Judge.me widget{% endcomment %}
+                 
+            {% comment %}
+              {% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', concierge_install: true, product: product %}
+            {% endcomment %}
+
             {%- if settings.enable_product_reviews and settings.reviews_layout == 'full' -%}
               {%- liquid
                 if isModal
