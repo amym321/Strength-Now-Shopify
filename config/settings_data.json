@@ -633,7 +633,8 @@
             "type": "advanced",
             "settings": {
               "subheading": "22g Protein per scoop",
-              "heading": "Protein for Muscles",
+              "heading1": "Protein for Muscles",
+              "heading2": "",
               "textarea": "PREMIUM BLEND",
               "cta_text1": "See Our Flavors",
               "cta_link1": "shopify:\/\/collections\/protein-shakes",
@@ -654,7 +655,8 @@
             "type": "advanced",
             "settings": {
               "subheading": "Perform at peak",
-              "heading": "Feel the burn in style",
+              "heading1": "Feel the burn in style",
+              "heading2": "",
               "textarea": "SHOW YOUR COMMITMENT",
               "cta_text1": "Fitness Wear",
               "cta_link1": "shopify:\/\/collections\/fitness-wear",
@@ -778,7 +780,8 @@
             "type": "advanced",
             "settings": {
               "subheading": "Premium Blend",
-              "heading": "Protein",
+              "heading1": "Protein &",
+              "heading2": "Fitness Gear",
               "textarea": "Indulge in our superior muscle building Protein Powders \nwhile showing commitment in our performant Fitness Gear",
               "cta_text1": "",
               "cta_text2": "",
@@ -2238,7 +2241,8 @@
               "type": "advanced",
               "settings": {
                 "subheading": "",
-                "heading": "Your promotion.",
+                "heading1": "Your promotion.",
+                "heading2": "Your promotion.",
                 "textarea": "",
                 "cta_text1": "Shop This",
                 "cta_link1": "shopify:\/\/collections\/all",
@@ -2260,7 +2264,8 @@
               "type": "advanced",
               "settings": {
                 "subheading": "",
-                "heading": "Another promotion.",
+                "heading1": "Another promotion.",
+                "heading2": "Another promotion.",
                 "textarea": "",
                 "cta_text1": "Shop This",
                 "cta_link1": "",
@@ -2282,7 +2287,8 @@
               "type": "advanced",
               "settings": {
                 "subheading": "",
-                "heading": "A boxed promotion.",
+                "heading1": "A boxed promotion.",
+                "heading2": "A boxed promotion.",
                 "textarea": "Include smaller text.",
                 "cta_text1": "Shop This",
                 "cta_link1": "",
@@ -2365,7 +2371,8 @@
               "type": "advanced",
               "settings": {
                 "subheading": "",
-                "heading": "Powerful flexibility.",
+                "heading1": "Powerful flexibility.",
+                "heading2": "Powerful flexibility.",
                 "textarea": "Include the smaller details of your promotion in text below the title.",
                 "cta_text1": "Shop This",
                 "cta_link1": "",
@@ -2387,7 +2394,8 @@
               "type": "advanced",
               "settings": {
                 "subheading": "",
-                "heading": "Adaptive layouts",
+                "heading1": "Adaptive layouts",
+                "heading2": "Adaptive layouts",
                 "textarea": "Include the smaller details of your promotion in text below the title.",
                 "cta_text1": "Shop This",
                 "cta_link1": "",

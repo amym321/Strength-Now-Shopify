@@ -188,9 +188,14 @@
                         {{ block.settings.subheading }}
                       </div>
                     {%- endif -%}
-                    {%- if block.settings.heading != blank -%}
+                    {%- if block.settings.heading1 != blank -%}
                       <div class="rte--block rte--strong">
-                        {{ block.settings.heading }}
+                        {{ block.settings.heading1 }}
+                      </div>
+                    {%- endif -%}
+                    {%- if block.settings.heading2 != blank -%}
+                      <div class="rte--block rte--strong">
+                        {{ block.settings.heading2 }}
                       </div>
                     {%- endif -%}
                     {%- if block.settings.textarea != blank -%}
