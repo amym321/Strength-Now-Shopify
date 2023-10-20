@@ -138,8 +138,6 @@
           "1524770014057": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/dumbbell_logo_18_blk.png",
-              "logo-inverted": "shopify:\/\/shop_images\/dumbbell_logo_18_wh.png",
               "desktop_logo_width": 220,
               "mobile_logo_width": 140
             }
@@ -157,7 +155,7 @@
           "sticky_collection": false,
           "announcement_compact": true,
           "announcement_above_header": true,
-          "toolbar_menu": "about-menu",
+          "toolbar_menu": "",
           "toolbar_social": true,
           "show_locale_selector": false,
           "show_currency_selector": false,
@@ -296,7 +294,6 @@
           "text": "<p>Peace of mind that your protein supplements contain the finest proteins and select ingredients.<\/p>",
           "button_label": "Protein Powder",
           "button_link": "shopify:\/\/collections\/protein-shakes",
-          "image": "shopify:\/\/shop_images\/StrengthNowMix-multi6_g.jpg",
           "focal_point": "top",
           "layout": "left",
           "height": 750,
@@ -389,11 +386,13 @@
           "sections-1592410318615",
           "sections-1592410272428"
         ],
-        "settings": {}
+        "settings": {
+        }
       },
       "product-story-sections": {
         "type": "product-story-sections",
-        "settings": {}
+        "settings": {
+        }
       },
       "page-sections-template": {
         "type": "page-sections-template",
@@ -501,11 +500,11 @@
           "popup_seconds": 5,
           "popup_days": 30,
           "popup_title": "Sign up and save",
-          "popup_image": "shopify:\/\/shop_images\/gym6_d_82b1a300-3589-497a-9980-fe028c88d552.jpg",
           "popup_text": "<p>Signup and receive discounts and exclusive offers.<br\/>We don&#x27;t email often, but when we do it&#x27;s sure to be worthwhile!<\/p>",
           "close_text": "No thanks",
           "enable_newsletter": true,
           "button_label": "Optional button",
+          "button_link": "",
           "enable_button": false
         }
       },
@@ -521,10 +520,10 @@
               "subheading": "GET STRONG & GET HEALTHY",
               "link": "shopify:\/\/collections\/protein-shakes",
               "link_text": "Protein",
+              "link_2": "",
               "link_text_2": "",
               "color_accent": "#ffffff",
               "text_align": "vertical-bottom horizontal-center",
-              "image": "shopify:\/\/shop_images\/Cover_12c.jpg",
               "overlay_opacity": 0,
               "focal_point": "top center"
             }
@@ -542,7 +541,6 @@
               "link_text_2": "Women",
               "color_accent": "#ffffff",
               "text_align": "vertical-bottom horizontal-center",
-              "image": "shopify:\/\/shop_images\/gym9c.jpg",
               "overlay_opacity": 0,
               "focal_point": "top center"
             }
@@ -622,7 +620,6 @@
           "map_address": "512 Green Bay Road, Kenilworth, IL",
           "api_key": "",
           "show_button": true,
-          "background_image": "shopify:\/\/shop_images\/humphrey-muleba-LOA2mTj1vhc-unsplash.jpg",
           "background_image_position": "center center"
         }
       },
@@ -639,7 +636,7 @@
               "cta_text1": "See Our Flavors",
               "cta_link1": "shopify:\/\/collections\/protein-shakes",
               "cta_text2": "",
-              "image": "shopify:\/\/shop_images\/StrengthNowMix-multib_2dfbc67b-6770-465f-a0c5-6713b946f4a6.jpg",
+              "cta_link2": "",
               "video_url": "",
               "width": "50",
               "height": 600,
@@ -661,7 +658,7 @@
               "cta_text1": "Fitness Wear",
               "cta_link1": "shopify:\/\/collections\/fitness-wear",
               "cta_text2": "",
-              "image": "shopify:\/\/shop_images\/sublimated-t-shirt-mockup-of-a-couple-of-runners-in-nature-40106-r-el2_5_b.jpg",
+              "cta_link2": "",
               "video_url": "",
               "width": "50",
               "height": 600,
@@ -722,7 +719,6 @@
           "1603716615441-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Scott4d.jpg",
               "link": "shopify:\/\/pages\/about-us",
               "width": "50%",
               "alignment": "center"
@@ -784,8 +780,9 @@
               "heading2": "Fitness Gear",
               "textarea": "Indulge in our superior muscle building Protein Powders \nwhile showing commitment in our performant Fitness Gear",
               "cta_text1": "",
+              "cta_link1": "",
               "cta_text2": "",
-              "image": "shopify:\/\/shop_images\/gym_14paidc.jpg",
+              "cta_link2": "",
               "video_url": "",
               "width": "100",
               "height": 560,
@@ -828,7 +825,15 @@
       "1603716615441",
       "1525115199973",
       "1525118065355"
-    ]
+    ],
+    "blocks": {
+      "13768625480086291342": {
+        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Modern": {
@@ -1038,19 +1043,23 @@
           "blocks": {
             "1499789718857-0": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1499789718857-1": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1499789718857-2": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1499789718857-3": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1158,7 +1167,8 @@
             "sections-1592410318615",
             "sections-1592410272428"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "product-story-sections": {
           "type": "product-story-sections",
@@ -1241,14 +1251,16 @@
             "1592410318615",
             "1592410272428"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "page-sections-template": {
           "type": "page-sections-template",
           "blocks": {
             "page-image-hero": {
               "type": "image-hero",
-              "settings": {}
+              "settings": {
+              }
             },
             "page-rich-text": {
               "type": "rich-text",
@@ -1260,7 +1272,8 @@
             },
             "page-text-columns": {
               "type": "text-columns",
-              "settings": {}
+              "settings": {
+              }
             },
             "page-background-image-text": {
               "type": "background-image-text",
@@ -1294,7 +1307,8 @@
         },
         "newsletter-popup": {
           "type": "newsletter-popup",
-          "settings": {}
+          "settings": {
+          }
         },
         "1524769873765": {
           "type": "slideshow",
@@ -1352,11 +1366,13 @@
           "blocks": {
             "1524772785241": {
               "type": "subcollections",
-              "settings": {}
+              "settings": {
+              }
             },
             "1524772580942": {
               "type": "tags_all",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1387,7 +1403,8 @@
         },
         "1525118065355": {
           "type": "map",
-          "settings": {}
+          "settings": {
+          }
         },
         "1525295772132": {
           "type": "featured-collection",
@@ -1849,7 +1866,8 @@
             "sections-1592410318615",
             "sections-1592410272428"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "product-story-sections": {
           "type": "product-story-sections",
@@ -1932,7 +1950,8 @@
             "1592410318615",
             "1592410272428"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "page-sections-template": {
           "type": "page-sections-template",
@@ -2757,7 +2776,8 @@
           "blocks": {
             "1524768779513": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2778,7 +2798,8 @@
           "blocks": {
             "1494292487693": {
               "type": "newsletter",
-              "settings": {}
+              "settings": {
+              }
             },
             "1526406521795": {
               "type": "menu",
@@ -2933,7 +2954,8 @@
             "sections-1592410318615",
             "sections-1592410272428"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "product-story-sections": {
           "type": "product-story-sections",
@@ -3016,7 +3038,8 @@
             "1592410318615",
             "1592410272428"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "page-sections-template": {
           "type": "page-sections-template",
@@ -3031,7 +3054,8 @@
             },
             "page-text-columns": {
               "type": "text-columns",
-              "settings": {}
+              "settings": {
+              }
             },
             "page-background-image-text": {
               "type": "background-image-text",
@@ -3063,7 +3087,8 @@
         },
         "newsletter-popup": {
           "type": "newsletter-popup",
-          "settings": {}
+          "settings": {
+          }
         },
         "1524768368258": {
           "type": "slideshow",
@@ -3103,11 +3128,13 @@
           "blocks": {
             "1524772785241": {
               "type": "subcollections",
-              "settings": {}
+              "settings": {
+              }
             },
             "1524772580942": {
               "type": "tags_all",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -3126,15 +3153,18 @@
           "blocks": {
             "1525290496166-0": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1525290496166-2": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1525290496166-1": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
