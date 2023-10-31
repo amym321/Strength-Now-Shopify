@@ -520,12 +520,13 @@
               "title": "Protein Powder",
               "title_size": 50,
               "subheading": "GET STRONG & GET HEALTHY",
-              "link": "shopify:\/\/collections\/protein-shakes",
+              "link": "shopify:\/\/collections\/protein-powder",
               "link_text": "Protein",
               "link_2": "",
               "link_text_2": "",
               "color_accent": "#ffffff",
               "text_align": "vertical-bottom horizontal-center",
+              "image": "shopify:\/\/shop_images\/Cover_12c.jpg",
               "overlay_opacity": 0,
               "focal_point": "top center"
             }
