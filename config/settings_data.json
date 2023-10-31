@@ -538,12 +538,13 @@
               "title": "Fitness Wear",
               "title_size": 50,
               "subheading": "FEEL THE BURN IN STYLE",
-              "link": "shopify:\/\/collections\/mens-workout-wear",
+              "link": "shopify:\/\/collections\/mens-fitness",
               "link_text": "Men",
-              "link_2": "shopify:\/\/collections\/womens-workout-wear",
+              "link_2": "shopify:\/\/collections\/womens-fitness",
               "link_text_2": "Women",
               "color_accent": "#ffffff",
               "text_align": "vertical-bottom horizontal-center",
+              "image": "shopify:\/\/shop_images\/gym9_-_Copy_-_Copy.jpg",
               "overlay_opacity": 0,
               "focal_point": "top center"
             }
