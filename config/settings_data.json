@@ -254,7 +254,7 @@
           "1499789718857-0": {
             "type": "collection",
             "settings": {
-              "collection": "protein-shakes",
+              "collection": "protein",
               "title": "",
               "focal_point": "center center"
             }
@@ -262,7 +262,7 @@
           "1499789718857-1": {
             "type": "collection",
             "settings": {
-              "collection": "mens-workout-wear",
+              "collection": "mens-fitness",
               "title": "",
               "focal_point": "center center"
             }
@@ -270,7 +270,7 @@
           "1499789718857-2": {
             "type": "collection",
             "settings": {
-              "collection": "womens-workout-wear",
+              "collection": "womens-fitness",
               "title": "",
               "focal_point": "center center"
             }
