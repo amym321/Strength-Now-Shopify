@@ -183,11 +183,20 @@
               "text": "<p>Subscribe to our mailing list and receive discounts and exclusive offers. We respect your privacy and keep your information secure.<\/p>",
               "container_width": 33
             }
+          },
+          "700e16f8-cf98-40cc-9036-7e602678a06c": {
+            "type": "logo_social",
+            "disabled": true,
+            "settings": {
+              "desktop_logo_height": 50,
+              "container_width": 25
+            }
           }
         },
         "block_order": [
           "1494301487049",
-          "1494292487693"
+          "1494292487693",
+          "700e16f8-cf98-40cc-9036-7e602678a06c"
         ],
         "settings": {
           "show_locale_selector": false,
