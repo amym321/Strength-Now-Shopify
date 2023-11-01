@@ -167,6 +167,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "700e16f8-cf98-40cc-9036-7e602678a06c": {
+            "type": "logo_social",
+            "settings": {
+              "desktop_logo_height": 50,
+              "container_width": 15
+            }
+          },
           "1494301487049": {
             "type": "menu",
             "settings": {
@@ -183,20 +190,12 @@
               "text": "<p>Subscribe to our mailing list and receive discounts and exclusive offers. We respect your privacy and keep your information secure.<\/p>",
               "container_width": 33
             }
-          },
-          "700e16f8-cf98-40cc-9036-7e602678a06c": {
-            "type": "logo_social",
-            "disabled": true,
-            "settings": {
-              "desktop_logo_height": 50,
-              "container_width": 25
-            }
           }
         },
         "block_order": [
+          "700e16f8-cf98-40cc-9036-7e602678a06c",
           "1494301487049",
-          "1494292487693",
-          "700e16f8-cf98-40cc-9036-7e602678a06c"
+          "1494292487693"
         ],
         "settings": {
           "show_locale_selector": false,
