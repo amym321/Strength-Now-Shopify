@@ -768,7 +768,7 @@
         "type": "featured-collection",
         "settings": {
           "title": "Protein Powder",
-          "home_featured_products": "protein-shakes",
+          "home_featured_products": "protein-powder",
           "per_row": 4,
           "rows": 1,
           "mobile_scrollable": true,
